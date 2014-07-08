@@ -1,0 +1,25 @@
+{
+  "name": "recast-yui",
+  "version": "0.0.0",
+  "description": "Slice and dice YUI modules, groups, and other bits with recast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evocateur/recast-yui"
+  },
+  "keywords": [
+    "yui",
+    "module",
+    "recast",
+    "ast"
+  ],
+  "author": "Daniel Stockman <daniel.stockman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evocateur/recast-yui/issues"
+  },
+  "homepage": "https://github.com/evocateur/recast-yui"
+}
