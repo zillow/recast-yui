@@ -4,6 +4,7 @@
   "description": "Slice and dice YUI modules, groups, and other bits with recast.",
   "main": "index.js",
   "scripts": {
+    "pretest": "jshint . --exclude ./node_modules",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/evocateur/recast-yui/issues"
   },
-  "homepage": "https://github.com/evocateur/recast-yui"
+  "homepage": "https://github.com/evocateur/recast-yui",
+  "devDependencies": {
+    "jshint": "^2.5.2"
+  }
 }
