@@ -1,6 +1,6 @@
 {
   "name": "recast-yui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Slice and dice YUI modules, groups, and other bits with recast.",
   "main": "index.js",
   "scripts": {
