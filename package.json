@@ -25,5 +25,14 @@
   "homepage": "https://github.com/evocateur/recast-yui",
   "devDependencies": {
     "jshint": "^2.5.2"
+  },
+  "dependencies": {
+    "bluebird": "^2.2.1",
+    "escodegen": "^1.3.3",
+    "esprima": "^1.2.2",
+    "graceful-fs": "^3.0.2",
+    "inherits": "^2.0.1",
+    "js-beautify": "git://github.com/beautify-web/js-beautify",
+    "recast": "^0.6.3"
   }
 }
