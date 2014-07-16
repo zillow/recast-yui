@@ -2,6 +2,7 @@
   "name": "recast-yui",
   "version": "0.1.0",
   "description": "Slice and dice YUI modules, groups, and other bits with recast.",
+  "bin": "bin/recast-yui",
   "main": "index.js",
   "files": [
     "LICENSE.md",
@@ -32,12 +33,17 @@
     "jshint": "^2.5.2"
   },
   "dependencies": {
-    "bluebird": "^2.2.1",
+    "bluebird": "^2.2.2",
+    "chalk": "^0.5.1",
+    "diff": "^1.0.8",
     "escodegen": "^1.3.3",
     "esprima": "^1.2.2",
     "graceful-fs": "^3.0.2",
     "inherits": "^2.0.1",
     "js-beautify": "git://github.com/beautify-web/js-beautify",
+    "lodash.clonedeep": "^2.4.1",
+    "minimatch": "^0.4.0",
+    "nopt": "^3.0.1",
     "recast": "^0.6.3"
   }
 }
