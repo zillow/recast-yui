@@ -5,6 +5,7 @@
   "bin": "bin/recast-yui",
   "main": "index.js",
   "files": [
+    "bin",
     "LICENSE.md",
     "index.js",
     "lib"
