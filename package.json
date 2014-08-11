@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/evocateur/recast-yui"
+    "url": "git://github.com/zillow/recast-yui"
   },
   "keywords": [
     "yui",
@@ -27,9 +27,9 @@
   "author": "Daniel Stockman <daniel.stockman@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evocateur/recast-yui/issues"
+    "url": "https://github.com/zillow/recast-yui/issues"
   },
-  "homepage": "https://github.com/evocateur/recast-yui",
+  "homepage": "https://github.com/zillow/recast-yui",
   "devDependencies": {
     "jshint": "^2.5.2"
   },
